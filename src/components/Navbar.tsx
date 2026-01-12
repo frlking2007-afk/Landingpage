@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, Code2 } from 'lucide-react';
-import { cn } from '../utils/cn';
 
 const navLinks = [
   { name: 'Xizmatlar', href: '#features' },

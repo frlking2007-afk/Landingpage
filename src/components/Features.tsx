@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Rocket, Palette, Globe, Smartphone, ShieldCheck, Zap } from 'lucide-react';
+import { Rocket, Palette, Smartphone } from 'lucide-react';
 
 const features = [
   {
