@@ -13,11 +13,11 @@ export const Contact = () => {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl font-extrabold sm:text-4xl mb-6">
-              Loyihangizni muhokama qilamizmi?
+              Biznesingiz uchun sayt kerakmi?
             </h2>
             <p className="text-indigo-200 text-lg mb-8 leading-relaxed">
-              Bizga murojaat qiling va biznesingiz uchun eng yaxshi yechimni toping.
-              Bepul konsultatsiya olish uchun formani to'ldiring.
+              Bizga murojaat qiling va biznesingiz rivoji uchun eng yaxshi veb-yechimni toping. 
+              Bepul konsultatsiya va loyiha narxini bilish uchun formani to'ldiring.
             </p>
 
             <div className="space-y-6">
@@ -27,7 +27,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-indigo-300">Telefon</p>
-                  <p className="font-semibold">+998 90 123 45 67</p>
+                  <p className="font-semibold">+998 95 647 34 44</p>
                 </div>
               </div>
               
@@ -37,7 +37,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-indigo-300">Email</p>
-                  <p className="font-semibold">info@modernweb.uz</p>
+                  <p className="font-semibold">hvnkompaniyasi@gmail.com</p>
                 </div>
               </div>
 
@@ -47,7 +47,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-indigo-300">Manzil</p>
-                  <p className="font-semibold">Toshkent sh., Chilonzor tumani</p>
+                  <p className="font-semibold">Toshkent, O'zbekiston</p>
                 </div>
               </div>
             </div>

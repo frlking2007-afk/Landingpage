@@ -13,10 +13,10 @@ export const Hero = () => {
             className="mb-12 lg:mb-0"
           >
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
-              Biznesingiz uchun <span className="text-indigo-600">zamonaviy yechimlar</span>
+              Biznesingiz uchun <span className="text-indigo-600">Professional Saytlar</span>
             </h1>
             <p className="text-lg sm:text-xl text-gray-600 mb-8 max-w-lg">
-              Sizning brendingizni yangi bosqichga olib chiquvchi, tezkor va chiroyli veb-saytlar yaratamiz.
+              Mijozlaringizga xizmatlaringizni to'liq ochib beruvchi, zamonaviy va sotuvni oshiruvchi veb-saytlar tayyorlab beramiz.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a

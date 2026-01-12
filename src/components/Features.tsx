@@ -27,12 +27,12 @@ export const Features = () => {
     <section id="features" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="text-base font-semibold text-indigo-600 tracking-wide uppercase">Afzalliklarimiz</h2>
+          <h2 className="text-base font-semibold text-indigo-600 tracking-wide uppercase">Bizning Xizmatlar</h2>
           <p className="mt-2 text-3xl font-extrabold text-gray-900 sm:text-4xl">
-            Nega aynan bizni tanlashingiz kerak?
+            Sifatli veb-sayt qanday bo'lishi kerak?
           </p>
           <p className="mt-4 text-xl text-gray-500">
-            Biz har bir loyihaga individual yondashamiz va eng yuqori sifatni ta'minlaymiz.
+            Biz tayyorlagan saytlar sizning biznesingizga real foyda keltiradi.
           </p>
         </div>
 

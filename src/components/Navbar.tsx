@@ -18,7 +18,7 @@ export const Navbar = () => {
           <div className="flex-shrink-0 flex items-center">
             <a href="#" className="flex items-center gap-2">
               <Code2 className="h-8 w-8 text-indigo-600" />
-              <span className="font-bold text-xl text-gray-900">ModernWeb</span>
+              <span className="font-bold text-xl text-gray-900">HVN Web</span>
             </a>
           </div>
           

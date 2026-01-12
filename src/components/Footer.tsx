@@ -8,10 +8,10 @@ export const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
               <Code2 className="h-8 w-8 text-indigo-500" />
-              <span className="font-bold text-xl text-white">ModernWeb</span>
+              <span className="font-bold text-xl text-white">HVN Web</span>
             </div>
             <p className="max-w-xs">
-              Biznesingizni rivojlantirish uchun zamonaviy va sifatli raqamli yechimlar.
+              Biznesingizni internetda rivojlantirish uchun professional veb-saytlar va IT xizmatlar.
             </p>
           </div>
           
@@ -35,7 +35,7 @@ export const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
-          <p>&copy; {new Date().getFullYear()} ModernWeb. Barcha huquqlar himoyalangan.</p>
+          <p>&copy; {new Date().getFullYear()} HVN Web. Barcha huquqlar himoyalangan.</p>
           <p className="mt-2 md:mt-0">Toshkent, O'zbekiston</p>
         </div>
       </div>
