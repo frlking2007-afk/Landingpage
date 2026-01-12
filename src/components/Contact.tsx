@@ -41,15 +41,6 @@ export const Contact = () => {
                 </div>
               </div>
 
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 bg-indigo-800 rounded-lg flex items-center justify-center">
-                  <MapPin className="h-6 w-6 text-indigo-400" />
-                </div>
-                <div>
-                  <p className="text-sm text-indigo-300">Manzil</p>
-                  <p className="font-semibold">Toshkent, O'zbekiston</p>
-                </div>
-              </div>
             </div>
           </motion.div>
 
