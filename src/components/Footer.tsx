@@ -34,10 +34,6 @@ export const Footer = () => {
           </div>
         </div>
         
-        <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
-          <p>&copy; {new Date().getFullYear()} HVN Web. Barcha huquqlar himoyalangan.</p>
-          <p className="mt-2 md:mt-0">Toshkent, O'zbekiston</p>
-        </div>
       </div>
     </footer>
   );
